@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+  <style>
+    .orange-text{
+      color:orange;
+    }
+    .red-text{
+      color:red;
+    }
+    .blue-text{
+      color:blue;
+    }
+     h1{
+       font-size:30px;
+    }
+    </style>
+  
+  <head>
+  <title>What does local Mom need?</title>
+  <h1 class="orange-text">Calvinhub</h1>
+  </head>
+  <input type="text" placeholder="Search" required>
+    <button type="submit">Submit</button>
+  
+  <main>
+  <p>嘿嘿，相信大家一定對這張圖片很熟悉，尤其是各位男紳士們，夜　晚開車的時候99.99%的機率會看到這一張圖，其餘的圖片，我就不多做　贅述了，然後啊我做這個純屬好玩，不要太在意喔</p>
+<form action="/submit-cat-photo">
+    <label><input type="radio" name="Country" checked> 亞洲</label>
+     <label><input type="radio" name="Country" checked> 東南亞</label> 
+    <label><input type="radio" name="Country"checked> 歐美</label><br>
+    <label><input type="checkbox" name="Categories" checked> 劇情</label>
+    <label><input type="checkbox" name="Categories"> 自拍</label>
+    <label><input type="checkbox" name="Categories"> 制服</label><br> 
+    <label><input type="checkbox" name="Categories"> 動漫</label> 
+     <label><input type="checkbox" name="Categories"> 誘惑</label> 
+      <label><input type="checkbox" name="Categories"> 無碼</label><br>  
+ <div>
+    </form>　
+    <p1 class="red-text">本日最受歡迎 TOP 5:</p1>
+    <p class="blue-text">點擊前往 <a href="#">熱門影片</a></p>
+      <ol>
+        <li>橋本有菜</li>
+        <li>紗倉真菜</li>
+        <li>高橋聖子</li>
+        <li>三上悠亞</li>
+        <li>川上悠</li>
+     <ol> 
+   </div>
+  <a href="#"><img src="https://scontent.ftpe4-2.fna.fbcdn.net/v/t1.15752-9/54519763_2342532332457031_8587292143435907072_n.jpg?_nc_cat=109&_nc_ht=scontent.ftpe4-2.fna&oh=2f3cb5e575451fa65c91b094931d4805&oe=5D04CE49" alt="local mom needs cock."></a>  
+</html>  
